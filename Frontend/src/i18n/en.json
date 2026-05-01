@@ -1,0 +1,320 @@
+{
+    "nav": {
+        "home": "Home",
+        "search": "Search",
+        "favorites": "Favorites",
+        "chats": "Messages",
+        "dashboard": "Dashboard",
+        "myListings": "My Listings",
+        "addListing": "Add Property",
+        "aiAssistant": "AI Assistant",
+        "problemSolver": "Roommate Matcher",
+        "mentalHealth": "Mental Health",
+        "login": "Login",
+        "register": "Register",
+        "logout": "Logout"
+    },
+    "admin": {
+        "metricsTitle": "System Metrics",
+        "metricsSubtitle": "Overview of platform performance and current data",
+        "users": "Users",
+        "listings": "Properties",
+        "interactions": "Interactions",
+        "locations": "Locations",
+        "viewMetrics": "View Metrics"
+    },
+    "home": {
+        "hero": {
+            "title": "Find Your Perfect Student Housing",
+            "subtitle": "Discover comfortable and affordable housing near your university",
+            "searchPlaceholder": "Search by city, region, or property name..."
+        },
+        "howItWorks": {
+            "title": "How it Works",
+            "step1": "Discover",
+            "step1Desc": "Explore high-quality student housing tailored to your location and budget.",
+            "step2": "Match",
+            "step2Desc": "Ensure a harmonious living experience by matching with compatible roommates.",
+            "step3": "Thrive",
+            "step3Desc": "Prioritize your mental health with our intelligent well-being monitoring system.",
+            "step4": "Resolve",
+            "step4Desc": "Navigate roommate challenges effortlessly with AI-powered conflict resolution."
+        },
+        "featured": "Featured Properties"
+    },
+    "search": {
+        "title": "Search Properties",
+        "filters": {
+            "city": "City",
+            "region": "Region",
+            "type": "Property Type",
+            "priceRange": "Price Range",
+            "minPrice": "Min Price",
+            "maxPrice": "Max Price",
+            "keyword": "Search Keyword"
+        },
+        "types": {
+            "room": "Room",
+            "apartment": "Apartment",
+            "studio": "Studio",
+            "shared": "Shared"
+        },
+        "noResults": "No properties found matching your criteria",
+        "results": "{count} properties found"
+    },
+    "listing": {
+        "perMonth": "/month",
+        "bedrooms": "Bedrooms",
+        "bathrooms": "Bathrooms",
+        "area": "Area",
+        "sqm": "sqm",
+        "rules": "House Rules",
+        "contact": "Contact Owner",
+        "addFavorite": "Add to Favorites",
+        "removeFavorite": "Remove from Favorites",
+        "available": "Available",
+        "notAvailable": "Not Available"
+    },
+    "auth": {
+        "login": {
+            "title": "Welcome Back",
+            "email": "Email",
+            "password": "Password",
+            "submit": "Login",
+            "noAccount": "Don't have an account?",
+            "register": "Register here"
+        },
+        "register": {
+            "title": "Create Account",
+            "name": "Full Name",
+            "email": "Email",
+            "phone": "Phone Number",
+            "password": "Password",
+            "confirmPassword": "Confirm Password",
+            "role": "I am a",
+            "roles": {
+                "student": "Student",
+                "owner": "Property Owner",
+                "broker": "Broker"
+            },
+            "submit": "Register",
+            "hasAccount": "Already have an account?",
+            "login": "Login here"
+        }
+    },
+    "dashboard": {
+        "title": "Dashboard",
+        "totalListings": "Total Listings",
+        "activeListings": "Active Listings",
+        "totalViews": "Total Views",
+        "recentMessages": "Recent Messages"
+    },
+    "addListing": {
+        "title": "Add New Property",
+        "editTitle": "Edit Property",
+        "basicInfo": "Basic Information",
+        "location": "Location",
+        "details": "Property Details",
+        "images": "Images",
+        "submit": "Submit Property",
+        "update": "Update Property"
+    },
+    "chat": {
+        "title": "Messages",
+        "noChats": "No conversations yet",
+        "placeholder": "Type a message...",
+        "send": "Send"
+    },
+    "ai": {
+        "title": "AI Assistant",
+        "placeholder": "Ask me anything about finding housing...",
+        "suggestions": "Suggested Properties"
+    },
+    "common": {
+        "loading": "Loading...",
+        "error": "An error occurred",
+        "save": "Save",
+        "cancel": "Cancel",
+        "delete": "Delete",
+        "edit": "Edit",
+        "view": "View",
+        "back": "Back",
+        "next": "Next",
+        "previous": "Previous",
+        "selectOption": "Select an option"
+    },
+    "problemSolver": {
+        "title": "Student Roommate Matcher",
+        "description": "Finding the right roommate is the biggest challenge for students. Use our tool to find someone who matches your lifestyle.",
+        "quiz": {
+            "title": "Compatibility Quiz",
+            "q1": "How often do you clean?",
+            "q1a1": "Every day",
+            "q1a2": "Once a week",
+            "q1a3": "Rarely",
+            "q2": "What's your sleep schedule?",
+            "q2a1": "Early bird",
+            "q2a2": "Night owl",
+            "q2a3": "Irregular",
+            "q3": "Do you study at home?",
+            "q3a1": "Always",
+            "q3a2": "Sometimes",
+            "q3a3": "Never",
+            "submit": "Find My Match Score"
+        },
+        "results": {
+            "title": "Your Match Score",
+            "perfect": "You are a perfect roommate! 🌟",
+            "good": "You are easy to live with! 👍",
+            "challenging": "You might need a very specific roommate. 🧐",
+            "recommendations": "Housing Nominated for You"
+        },
+        "resolver": {
+            "title": "AI Student Problem Solver",
+            "desc": "Having trouble with your roommate? Describe the issue for an instant AI strategy.",
+            "placeholder": "e.g., My roommate leaves dirty dishes everywhere...",
+            "action": "Solve My Problem",
+            "solution_title": "AI Resolution Strategy"
+        }
+    },
+    "mentalHealth": {
+        "title": "Student MindWell",
+        "description": "Your mental well-being is vital. Use our early detection system to monitor your mood and get support when you need it.",
+        "nav": "Mental Health",
+        "mood": {
+            "title": "How are you feeling today?",
+            "excellent": "Excellent",
+            "good": "Good",
+            "neutral": "Neutral",
+            "stressed": "Stressed",
+            "sad": "Sad"
+        },
+        "quiz": {
+            "title": "Self-Assessment Check-in",
+            "q1": "How often have you felt lonely or isolated this week?",
+            "q1a1": "Never",
+            "q1a2": "Sometimes",
+            "q1a3": "Often",
+            "q2": "Are you feeling overwhelmed by academic pressure?",
+            "q2a1": "Not at all",
+            "q2a2": "Somewhat",
+            "q2a3": "Very much",
+            "q3": "Have you been in contact with family or friends recently?",
+            "q3a1": "Daily",
+            "q3a2": "A few times",
+            "q3a3": "Rarely",
+            "submit": "Analyze My Well-being"
+        },
+        "results": {
+            "title": "Well-being Analysis",
+            "low": "You seem to be doing well! Keep maintaining those healthy connections. 🌟",
+            "moderate": "You're experiencing some pressure. Consider talking to a friend or taking a break. 👍",
+            "high": "You might be feeling isolated. We recommend reaching out for support. You're not alone. 🤝"
+        },
+        "recommendations": {
+            "title": "Tailored for You",
+            "social": {
+                "title": "Connect & Meet Friends",
+                "desc": "Join student communities and social apps to expand your circle.",
+                "apps": "Try apps like Discord (Student Hubs), Meetup, or Bumble For Friends."
+            },
+            "activities": {
+                "title": "Recommended Activities",
+                "desc": "Engage in these activities to refresh your mind.",
+                "items": [
+                    "Morning Jog",
+                    "Group Study Sessions",
+                    "Campus Clubs",
+                    "Volunteering"
+                ]
+            },
+            "academic": {
+                "title": "Academic Focus",
+                "desc": "Turn pressure into progress with focused learning.",
+                "math": "Join the Mathematics Study Circle for collaborative problem solving."
+            }
+        },
+        "resources": {
+            "title": "Support Resources",
+            "counseling": "University Counseling Center",
+            "hotline": "24/7 Support Hotline",
+            "groups": "Student Support Groups",
+            "disclaimer": "Note: This is an early detection tool, not a medical diagnosis. If you're in crisis, please seek professional help immediately."
+        },
+        "amazing": {
+            "sos": {
+                "btn": "Emergency Help",
+                "title": "You are not alone",
+                "desc": "Please reach out to our emergency team or call the national hotline immediately."
+            },
+            "gauge": {
+                "title": "Well-being Index",
+                "low": "Mindful",
+                "high": "Thriving"
+            },
+            "history": {
+                "title": "7-Day Mood Trend",
+                "days": [
+                    "Mon",
+                    "Tue",
+                    "Wed",
+                    "Thu",
+                    "Fri",
+                    "Sat",
+                    "Sun"
+                ]
+            },
+            "suggestions": {
+                "sleep": {
+                    "title": "Sleep Hygiene",
+                    "desc": "Optimize your recovery with regular sleep patterns."
+                },
+                "nutrition": {
+                    "title": "Brain Nutrition",
+                    "desc": "Foods that support cognitive focus and mood stability."
+                },
+                "workshops": {
+                    "title": "Wellness Workshops",
+                    "desc": "Join a group mindfulness session on campus."
+                },
+                "challenge": {
+                    "title": "Daily Wellness Challenge",
+                    "desc": "A small step toward a better version of yourself."
+                },
+                "detox": {
+                    "title": "Digital Detox",
+                    "desc": "Unplug for 30 minutes to reduce mental fatigue."
+                },
+                "creative": {
+                    "title": "Creative Flow",
+                    "desc": "Doodle, write, or play music to release tension."
+                },
+                "physical": {
+                    "title": "Physical Spark",
+                    "desc": "5-minute stretches to re-energize your body."
+                }
+            },
+            "pulse": {
+                "title": "Pulse: Breathe to Calm",
+                "desc": "Regulate your breathing and lower stress levels in 60 seconds.",
+                "action": "Start Breathing",
+                "stop": "End Session",
+                "in": "Breathe In...",
+                "hold": "Hold...",
+                "out": "Breathe Out..."
+            },
+            "glow": {
+                "title": "Daily Glow",
+                "desc": "Your positive thought for the day. Click to reveal.",
+                "reveal": "Reveal Affirmation",
+                "list": [
+                    "I am capable of achieving great things today.",
+                    "My health and peace of mind are my top priorities.",
+                    "I have the strength to overcome any seasonal pressure.",
+                    "I am a valuable part of this community.",
+                    "Every step I take is a step toward my graduation success."
+                ]
+            }
+        }
+    }
+}
